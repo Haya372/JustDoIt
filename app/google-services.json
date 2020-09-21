@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "210233772890",
+    "firebase_url": "https://justdoit-6edda.firebaseio.com",
+    "project_id": "justdoit-6edda",
+    "storage_bucket": "justdoit-6edda.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:210233772890:android:83d5a6bb67a61e56b08163",
+        "android_client_info": {
+          "package_name": "com.myApp.Justdoit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "210233772890-iau9ad5o610hibe267bfm30jeqqrg348.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXYgbeAC5VPQ4NCzB5dMKljhy520SsOvw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "210233772890-iau9ad5o610hibe267bfm30jeqqrg348.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
